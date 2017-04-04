@@ -1,0 +1,346 @@
+C:\Users\Guillaume\Documents\Visual Studio 2012\Projects\ProjetGot\ProjetGot\bin\Debug\ProjetGot.exe.config
+C:\Users\Guillaume\Documents\Visual Studio 2012\Projects\ProjetGot\ProjetGot\bin\Debug\ProjetGot.exe
+C:\Users\Guillaume\Documents\Visual Studio 2012\Projects\ProjetGot\ProjetGot\bin\Debug\ProjetGot.pdb
+C:\Users\Guillaume\Documents\Visual Studio 2012\Projects\ProjetGot\ProjetGot\obj\Debug\ProjetGot.csprojResolveAssemblyReference.cache
+C:\Users\Guillaume\Documents\Visual Studio 2012\Projects\ProjetGot\ProjetGot\obj\Debug\MainWindow.baml
+C:\Users\Guillaume\Documents\Visual Studio 2012\Projects\ProjetGot\ProjetGot\obj\Debug\MainWindow.g.cs
+C:\Users\Guillaume\Documents\Visual Studio 2012\Projects\ProjetGot\ProjetGot\obj\Debug\App.g.cs
+C:\Users\Guillaume\Documents\Visual Studio 2012\Projects\ProjetGot\ProjetGot\obj\Debug\ProjetGot_MarkupCompile.cache
+C:\Users\Guillaume\Documents\Visual Studio 2012\Projects\ProjetGot\ProjetGot\obj\Debug\ProjetGot.g.resources
+C:\Users\Guillaume\Documents\Visual Studio 2012\Projects\ProjetGot\ProjetGot\obj\Debug\ProjetGot.Properties.Resources.resources
+C:\Users\Guillaume\Documents\Visual Studio 2012\Projects\ProjetGot\ProjetGot\obj\Debug\ProjetGot.csproj.GenerateResource.Cache
+C:\Users\Guillaume\Documents\Visual Studio 2012\Projects\ProjetGot\ProjetGot\obj\Debug\ProjetGot.exe
+C:\Users\Guillaume\Documents\Visual Studio 2012\Projects\ProjetGot\ProjetGot\obj\Debug\ProjetGot.pdb
+G:\ProjetGot\ProjetGot\bin\Debug\ProjetGot.exe.config
+G:\ProjetGot\ProjetGot\obj\Debug\ProjetGot.exe
+G:\ProjetGot\ProjetGot\obj\Debug\ProjetGot.pdb
+G:\ProjetGot\ProjetGot\obj\Debug\ProjetGot.csprojResolveAssemblyReference.cache
+G:\ProjetGot\ProjetGot\obj\Debug\App.g.cs
+G:\ProjetGot\ProjetGot\obj\Debug\ProjetGot_MarkupCompile.cache
+G:\ProjetGot\ProjetGot\bin\Debug\ProjetGot.exe
+G:\ProjetGot\ProjetGot\bin\Debug\ProjetGot.pdb
+G:\ProjetGot\ProjetGot\obj\Debug\MainWindow.baml
+G:\ProjetGot\ProjetGot\obj\Debug\MainWindow.g.cs
+G:\ProjetGot\ProjetGot\obj\Debug\ProjetGot.g.resources
+G:\ProjetGot\ProjetGot\obj\Debug\ProjetGot.Properties.Resources.resources
+G:\ProjetGot\ProjetGot\obj\Debug\ProjetGot.csproj.GenerateResource.Cache
+G:\ProjetGot\ProjetGot\obj\Debug\FormulaireFamille.g.cs
+G:\ProjetGot\ProjetGot\obj\Debug\ProjetGot_MarkupCompile.lref
+G:\ProjetGot\ProjetGot\obj\Debug\FormulaireFamille.baml
+E:\ProjetGot\ProjetGot\bin\Debug\ProjetGot.exe.config
+E:\ProjetGot\ProjetGot\obj\Debug\ProjetGot.exe
+E:\ProjetGot\ProjetGot\obj\Debug\ProjetGot.pdb
+E:\ProjetGot\ProjetGot\bin\Debug\ProjetGot.exe
+E:\ProjetGot\ProjetGot\bin\Debug\ProjetGot.pdb
+E:\ProjetGot\ProjetGot\obj\Debug\ProjetGot.csprojResolveAssemblyReference.cache
+E:\ProjetGot\ProjetGot\obj\Debug\MainWindow.baml
+E:\ProjetGot\ProjetGot\obj\Debug\FormulaireFamille.g.cs
+E:\ProjetGot\ProjetGot\obj\Debug\MainWindow.g.cs
+E:\ProjetGot\ProjetGot\obj\Debug\App.g.cs
+E:\ProjetGot\ProjetGot\obj\Debug\ProjetGot_MarkupCompile.cache
+E:\ProjetGot\ProjetGot\obj\Debug\ProjetGot_MarkupCompile.lref
+E:\ProjetGot\ProjetGot\obj\Debug\FormulaireFamille.baml
+E:\ProjetGot\ProjetGot\obj\Debug\ProjetGot.g.resources
+E:\ProjetGot\ProjetGot\obj\Debug\ProjetGot.Properties.Resources.resources
+E:\ProjetGot\ProjetGot\obj\Debug\ProjetGot.csproj.GenerateResource.Cache
+E:\ProjetGot\ProjetGot\bin\Debug\Metier.dll
+E:\ProjetGot\ProjetGot\bin\Debug\Metier.pdb
+C:\Users\Guillaume\Documents\Visual Studio 2012\Projects\ProjetGot\ProjetGot\bin\Debug\Metier.dll
+C:\Users\Guillaume\Documents\Visual Studio 2012\Projects\ProjetGot\ProjetGot\bin\Debug\Metier.pdb
+C:\Users\Guillaume\Documents\Visual Studio 2012\Projects\ProjetGot\ProjetGot\obj\Debug\FormulaireFamille.g.cs
+C:\Users\Guillaume\Documents\Visual Studio 2012\Projects\ProjetGot\ProjetGot\obj\Debug\ProjetGot_MarkupCompile.lref
+C:\Users\Guillaume\Documents\Visual Studio 2012\Projects\ProjetGot\ProjetGot\obj\Debug\FormulaireFamille.baml
+C:\Users\cltouresse\Desktop\ProjetGot\ProjetGot\bin\Debug\ProjetGot.exe.config
+C:\Users\cltouresse\Desktop\ProjetGot\ProjetGot\obj\Debug\ProjetGot.exe
+C:\Users\cltouresse\Desktop\ProjetGot\ProjetGot\obj\Debug\ProjetGot.pdb
+C:\Users\cltouresse\Desktop\ProjetGot\ProjetGot\bin\Debug\ProjetGot.exe
+C:\Users\cltouresse\Desktop\ProjetGot\ProjetGot\bin\Debug\ProjetGot.pdb
+C:\Users\cltouresse\Desktop\ProjetGot\ProjetGot\bin\Debug\Metier.dll
+C:\Users\cltouresse\Desktop\ProjetGot\ProjetGot\bin\Debug\Metier.pdb
+C:\Users\cltouresse\Desktop\ProjetGot\ProjetGot\obj\Debug\ProjetGot.csprojResolveAssemblyReference.cache
+C:\Users\cltouresse\Desktop\ProjetGot\ProjetGot\obj\Debug\FormulaireFamille.g.cs
+C:\Users\cltouresse\Desktop\ProjetGot\ProjetGot\obj\Debug\MainWindow.g.cs
+C:\Users\cltouresse\Desktop\ProjetGot\ProjetGot\obj\Debug\App.g.cs
+C:\Users\cltouresse\Desktop\ProjetGot\ProjetGot\obj\Debug\ProjetGot_MarkupCompile.cache
+C:\Users\cltouresse\Desktop\ProjetGot\ProjetGot\obj\Debug\ProjetGot_MarkupCompile.lref
+C:\Users\cltouresse\Desktop\ProjetGot\ProjetGot\obj\Debug\FormulaireFamille.baml
+C:\Users\cltouresse\Desktop\ProjetGot\ProjetGot\obj\Debug\MainWindow.baml
+C:\Users\cltouresse\Desktop\ProjetGot\ProjetGot\obj\Debug\ProjetGot.g.resources
+C:\Users\cltouresse\Desktop\ProjetGot\ProjetGot\obj\Debug\ProjetGot.Properties.Resources.resources
+C:\Users\cltouresse\Desktop\ProjetGot\ProjetGot\obj\Debug\ProjetGot.csproj.GenerateResource.Cache
+C:\Users\guforce\Desktop\ProjetGot\ProjetGot\bin\Debug\ProjetGot.exe.config
+C:\Users\guforce\Desktop\ProjetGot\ProjetGot\obj\Debug\ProjetGot.exe
+C:\Users\guforce\Desktop\ProjetGot\ProjetGot\obj\Debug\ProjetGot.pdb
+C:\Users\guforce\Desktop\ProjetGot\ProjetGot\obj\Debug\ProjetGot.csprojResolveAssemblyReference.cache
+C:\Users\guforce\Desktop\ProjetGot\ProjetGot\obj\Debug\FormulaireFamille.g.cs
+C:\Users\guforce\Desktop\ProjetGot\ProjetGot\obj\Debug\MainWindow.g.cs
+C:\Users\guforce\Desktop\ProjetGot\ProjetGot\obj\Debug\App.g.cs
+C:\Users\guforce\Desktop\ProjetGot\ProjetGot\obj\Debug\ProjetGot_MarkupCompile.cache
+C:\Users\guforce\Desktop\ProjetGot\ProjetGot\obj\Debug\ProjetGot_MarkupCompile.lref
+C:\Users\guforce\Desktop\ProjetGot\ProjetGot\obj\Debug\FormulairePerso.baml
+C:\Users\guforce\Desktop\ProjetGot\ProjetGot\obj\Debug\UCFormulairePerso.baml
+C:\Users\guforce\Desktop\ProjetGot\ProjetGot\obj\Debug\FormulairePerso.g.cs
+C:\Users\guforce\Desktop\ProjetGot\ProjetGot\obj\Debug\UCFormulairePerso.g.cs
+C:\Users\guforce\Desktop\ProjetGot\ProjetGot\bin\Debug\ProjetGot.exe
+C:\Users\guforce\Desktop\ProjetGot\ProjetGot\bin\Debug\ProjetGot.pdb
+C:\Users\guforce\Desktop\ProjetGot\ProjetGot\bin\Debug\Metier.dll
+C:\Users\guforce\Desktop\ProjetGot\ProjetGot\bin\Debug\Metier.pdb
+C:\Users\guforce\Desktop\ProjetGot\ProjetGot\obj\Debug\FormulaireFamille.baml
+C:\Users\guforce\Desktop\ProjetGot\ProjetGot\obj\Debug\MainWindow.baml
+C:\Users\guforce\Desktop\ProjetGot\ProjetGot\obj\Debug\ProjetGot.g.resources
+C:\Users\guforce\Desktop\ProjetGot\ProjetGot\obj\Debug\ProjetGot.Properties.Resources.resources
+C:\Users\guforce\Desktop\ProjetGot\ProjetGot\obj\Debug\ProjetGot.csproj.GenerateResource.Cache
+C:\Users\guforce\Desktop\ProjetGot\ProjetGot\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\guforce\Desktop\ProjetGot\ProjetGot\obj\Debug\FormulaireModif.g.cs
+C:\Users\guforce\Desktop\ProjetGot\ProjetGot\obj\Debug\FormulaireModif.baml
+E:\ProjetGot\ProjetGot\obj\Debug\UCFormulairePerso.baml
+E:\ProjetGot\ProjetGot\obj\Debug\FormulaireModif.g.cs
+E:\ProjetGot\ProjetGot\obj\Debug\FormulairePerso.g.cs
+E:\ProjetGot\ProjetGot\obj\Debug\UCFormulairePerso.g.cs
+E:\ProjetGot\ProjetGot\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\ProjetGot\ProjetGot\obj\Debug\FormulaireModif.baml
+E:\ProjetGot\ProjetGot\obj\Debug\FormulairePerso.baml
+C:\Users\Guillaume\Documents\Visual Studio 2012\Projects\ProjetGot\ProjetGot\obj\Debug\UCFormulairePerso.baml
+C:\Users\Guillaume\Documents\Visual Studio 2012\Projects\ProjetGot\ProjetGot\obj\Debug\FormulaireModif.g.cs
+C:\Users\Guillaume\Documents\Visual Studio 2012\Projects\ProjetGot\ProjetGot\obj\Debug\FormulairePerso.g.cs
+C:\Users\Guillaume\Documents\Visual Studio 2012\Projects\ProjetGot\ProjetGot\obj\Debug\UCFormulairePerso.g.cs
+C:\Users\Guillaume\Documents\Visual Studio 2012\Projects\ProjetGot\ProjetGot\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Guillaume\Documents\Visual Studio 2012\Projects\ProjetGot\ProjetGot\obj\Debug\FormulaireModif.baml
+C:\Users\Guillaume\Documents\Visual Studio 2012\Projects\ProjetGot\ProjetGot\obj\Debug\FormulairePerso.baml
+C:\Users\Powerofcloud\Desktop\ProjetGot\ProjetGot\bin\Debug\ProjetGot.exe.config
+C:\Users\Powerofcloud\Desktop\ProjetGot\ProjetGot\obj\Debug\ProjetGot.exe
+C:\Users\Powerofcloud\Desktop\ProjetGot\ProjetGot\obj\Debug\ProjetGot.pdb
+C:\Users\Powerofcloud\Desktop\ProjetGot\ProjetGot\bin\Debug\ProjetGot.exe
+C:\Users\Powerofcloud\Desktop\ProjetGot\ProjetGot\bin\Debug\ProjetGot.pdb
+C:\Users\Powerofcloud\Desktop\ProjetGot\ProjetGot\bin\Debug\Metier.dll
+C:\Users\Powerofcloud\Desktop\ProjetGot\ProjetGot\bin\Debug\Metier.pdb
+C:\Users\Powerofcloud\Desktop\ProjetGot\ProjetGot\obj\Debug\ProjetGot.csprojResolveAssemblyReference.cache
+C:\Users\Powerofcloud\Desktop\ProjetGot\ProjetGot\obj\Debug\UCFormulairePerso.baml
+C:\Users\Powerofcloud\Desktop\ProjetGot\ProjetGot\obj\Debug\FormulaireFamille.g.cs
+C:\Users\Powerofcloud\Desktop\ProjetGot\ProjetGot\obj\Debug\FormulaireModif.g.cs
+C:\Users\Powerofcloud\Desktop\ProjetGot\ProjetGot\obj\Debug\FormulairePerso.g.cs
+C:\Users\Powerofcloud\Desktop\ProjetGot\ProjetGot\obj\Debug\MainWindow.g.cs
+C:\Users\Powerofcloud\Desktop\ProjetGot\ProjetGot\obj\Debug\UCFormulairePerso.g.cs
+C:\Users\Powerofcloud\Desktop\ProjetGot\ProjetGot\obj\Debug\App.g.cs
+C:\Users\Powerofcloud\Desktop\ProjetGot\ProjetGot\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Powerofcloud\Desktop\ProjetGot\ProjetGot\obj\Debug\ProjetGot_MarkupCompile.cache
+C:\Users\Powerofcloud\Desktop\ProjetGot\ProjetGot\obj\Debug\ProjetGot_MarkupCompile.lref
+C:\Users\Powerofcloud\Desktop\ProjetGot\ProjetGot\obj\Debug\FormulaireFamille.baml
+C:\Users\Powerofcloud\Desktop\ProjetGot\ProjetGot\obj\Debug\FormulaireModif.baml
+C:\Users\Powerofcloud\Desktop\ProjetGot\ProjetGot\obj\Debug\FormulairePerso.baml
+C:\Users\Powerofcloud\Desktop\ProjetGot\ProjetGot\obj\Debug\MainWindow.baml
+C:\Users\Powerofcloud\Desktop\ProjetGot\ProjetGot\obj\Debug\ProjetGot.g.resources
+C:\Users\Powerofcloud\Desktop\ProjetGot\ProjetGot\obj\Debug\ProjetGot.Properties.Resources.resources
+C:\Users\Powerofcloud\Desktop\ProjetGot\ProjetGot\obj\Debug\ProjetGot.csproj.GenerateResource.Cache
+G:\ProjetGot guigui\ProjetGot\bin\Debug\ProjetGot.exe.config
+G:\ProjetGot guigui\ProjetGot\obj\Debug\ProjetGot.exe
+G:\ProjetGot guigui\ProjetGot\obj\Debug\ProjetGot.pdb
+G:\ProjetGot guigui\ProjetGot\bin\Debug\ProjetGot.exe
+G:\ProjetGot guigui\ProjetGot\bin\Debug\ProjetGot.pdb
+G:\ProjetGot guigui\ProjetGot\bin\Debug\Metier.dll
+G:\ProjetGot guigui\ProjetGot\bin\Debug\Metier.pdb
+G:\ProjetGot guigui\ProjetGot\obj\Debug\ProjetGot.csprojResolveAssemblyReference.cache
+G:\ProjetGot guigui\ProjetGot\obj\Debug\UCFormulairePerso.baml
+G:\ProjetGot guigui\ProjetGot\obj\Debug\FormulaireFamille.g.cs
+G:\ProjetGot guigui\ProjetGot\obj\Debug\FormulaireModif.g.cs
+G:\ProjetGot guigui\ProjetGot\obj\Debug\FormulairePerso.g.cs
+G:\ProjetGot guigui\ProjetGot\obj\Debug\MainWindow.g.cs
+G:\ProjetGot guigui\ProjetGot\obj\Debug\UCFormulairePerso.g.cs
+G:\ProjetGot guigui\ProjetGot\obj\Debug\App.g.cs
+G:\ProjetGot guigui\ProjetGot\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\ProjetGot guigui\ProjetGot\obj\Debug\ProjetGot_MarkupCompile.cache
+G:\ProjetGot guigui\ProjetGot\obj\Debug\ProjetGot_MarkupCompile.lref
+G:\ProjetGot guigui\ProjetGot\obj\Debug\FormulaireFamille.baml
+G:\ProjetGot guigui\ProjetGot\obj\Debug\FormulaireModif.baml
+G:\ProjetGot guigui\ProjetGot\obj\Debug\FormulairePerso.baml
+G:\ProjetGot guigui\ProjetGot\obj\Debug\MainWindow.baml
+G:\ProjetGot guigui\ProjetGot\obj\Debug\ProjetGot.g.resources
+G:\ProjetGot guigui\ProjetGot\obj\Debug\ProjetGot.Properties.Resources.resources
+G:\ProjetGot guigui\ProjetGot\obj\Debug\ProjetGot.csproj.GenerateResource.Cache
+G:\ProjetGot guigui\ProjetGot\obj\Debug\App.baml
+E:\ProjetGot guigui\ProjetGot\bin\Debug\ProjetGot.exe.config
+E:\ProjetGot guigui\ProjetGot\obj\Debug\ProjetGot.exe
+E:\ProjetGot guigui\ProjetGot\obj\Debug\ProjetGot.pdb
+E:\ProjetGot guigui\ProjetGot\bin\Debug\ProjetGot.exe
+E:\ProjetGot guigui\ProjetGot\bin\Debug\ProjetGot.pdb
+E:\ProjetGot guigui\ProjetGot\bin\Debug\Metier.dll
+E:\ProjetGot guigui\ProjetGot\bin\Debug\Metier.pdb
+E:\ProjetGot guigui\ProjetGot\obj\Debug\ProjetGot.csprojResolveAssemblyReference.cache
+E:\ProjetGot guigui\ProjetGot\obj\Debug\UCFormulairePerso.baml
+E:\ProjetGot guigui\ProjetGot\obj\Debug\FormulaireFamille.g.cs
+E:\ProjetGot guigui\ProjetGot\obj\Debug\FormulaireModif.g.cs
+E:\ProjetGot guigui\ProjetGot\obj\Debug\FormulairePerso.g.cs
+E:\ProjetGot guigui\ProjetGot\obj\Debug\MainWindow.g.cs
+E:\ProjetGot guigui\ProjetGot\obj\Debug\UCFormulairePerso.g.cs
+E:\ProjetGot guigui\ProjetGot\obj\Debug\App.g.cs
+E:\ProjetGot guigui\ProjetGot\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\ProjetGot guigui\ProjetGot\obj\Debug\ProjetGot_MarkupCompile.cache
+E:\ProjetGot guigui\ProjetGot\obj\Debug\ProjetGot_MarkupCompile.lref
+E:\ProjetGot guigui\ProjetGot\obj\Debug\App.baml
+E:\ProjetGot guigui\ProjetGot\obj\Debug\FormulaireFamille.baml
+E:\ProjetGot guigui\ProjetGot\obj\Debug\FormulaireModif.baml
+E:\ProjetGot guigui\ProjetGot\obj\Debug\FormulairePerso.baml
+E:\ProjetGot guigui\ProjetGot\obj\Debug\MainWindow.baml
+E:\ProjetGot guigui\ProjetGot\obj\Debug\ProjetGot.g.resources
+E:\ProjetGot guigui\ProjetGot\obj\Debug\ProjetGot.Properties.Resources.resources
+E:\ProjetGot guigui\ProjetGot\obj\Debug\ProjetGot.csproj.GenerateResource.Cache
+C:\Users\Powerofcloud\Desktop\ProjetGot guigui\ProjetGot\bin\Debug\ProjetGot.exe.config
+C:\Users\Powerofcloud\Desktop\ProjetGot guigui\ProjetGot\obj\Debug\ProjetGot.exe
+C:\Users\Powerofcloud\Desktop\ProjetGot guigui\ProjetGot\obj\Debug\ProjetGot.pdb
+C:\Users\Powerofcloud\Desktop\ProjetGot guigui\ProjetGot\bin\Debug\ProjetGot.exe
+C:\Users\Powerofcloud\Desktop\ProjetGot guigui\ProjetGot\bin\Debug\ProjetGot.pdb
+C:\Users\Powerofcloud\Desktop\ProjetGot guigui\ProjetGot\bin\Debug\Metier.dll
+C:\Users\Powerofcloud\Desktop\ProjetGot guigui\ProjetGot\bin\Debug\Metier.pdb
+C:\Users\Powerofcloud\Desktop\ProjetGot guigui\ProjetGot\obj\Debug\ProjetGot.csprojResolveAssemblyReference.cache
+C:\Users\Powerofcloud\Desktop\ProjetGot guigui\ProjetGot\obj\Debug\UCFormulairePerso.baml
+C:\Users\Powerofcloud\Desktop\ProjetGot guigui\ProjetGot\obj\Debug\FormulaireFamille.g.cs
+C:\Users\Powerofcloud\Desktop\ProjetGot guigui\ProjetGot\obj\Debug\FormulaireModif.g.cs
+C:\Users\Powerofcloud\Desktop\ProjetGot guigui\ProjetGot\obj\Debug\FormulairePerso.g.cs
+C:\Users\Powerofcloud\Desktop\ProjetGot guigui\ProjetGot\obj\Debug\MainWindow.g.cs
+C:\Users\Powerofcloud\Desktop\ProjetGot guigui\ProjetGot\obj\Debug\UCFormulairePerso.g.cs
+C:\Users\Powerofcloud\Desktop\ProjetGot guigui\ProjetGot\obj\Debug\App.g.cs
+C:\Users\Powerofcloud\Desktop\ProjetGot guigui\ProjetGot\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Powerofcloud\Desktop\ProjetGot guigui\ProjetGot\obj\Debug\ProjetGot_MarkupCompile.cache
+C:\Users\Powerofcloud\Desktop\ProjetGot guigui\ProjetGot\obj\Debug\ProjetGot_MarkupCompile.lref
+C:\Users\Powerofcloud\Desktop\ProjetGot guigui\ProjetGot\obj\Debug\App.baml
+C:\Users\Powerofcloud\Desktop\ProjetGot guigui\ProjetGot\obj\Debug\FormulaireFamille.baml
+C:\Users\Powerofcloud\Desktop\ProjetGot guigui\ProjetGot\obj\Debug\FormulaireModif.baml
+C:\Users\Powerofcloud\Desktop\ProjetGot guigui\ProjetGot\obj\Debug\FormulairePerso.baml
+C:\Users\Powerofcloud\Desktop\ProjetGot guigui\ProjetGot\obj\Debug\MainWindow.baml
+C:\Users\Powerofcloud\Desktop\ProjetGot guigui\ProjetGot\obj\Debug\ProjetGot.g.resources
+C:\Users\Powerofcloud\Desktop\ProjetGot guigui\ProjetGot\obj\Debug\ProjetGot.Properties.Resources.resources
+C:\Users\Powerofcloud\Desktop\ProjetGot guigui\ProjetGot\obj\Debug\ProjetGot.csproj.GenerateResource.Cache
+C:\Users\Powerofcloud\Desktop\ProjetGot v0.8\ProjetGot\bin\Debug\ProjetGot.exe.config
+C:\Users\Powerofcloud\Desktop\ProjetGot v0.8\ProjetGot\obj\Debug\ProjetGot.exe
+C:\Users\Powerofcloud\Desktop\ProjetGot v0.8\ProjetGot\obj\Debug\ProjetGot.pdb
+C:\Users\Powerofcloud\Desktop\ProjetGot v0.8\ProjetGot\bin\Debug\ProjetGot.exe
+C:\Users\Powerofcloud\Desktop\ProjetGot v0.8\ProjetGot\bin\Debug\ProjetGot.pdb
+C:\Users\Powerofcloud\Desktop\ProjetGot v0.8\ProjetGot\bin\Debug\Metier.dll
+C:\Users\Powerofcloud\Desktop\ProjetGot v0.8\ProjetGot\bin\Debug\Metier.pdb
+C:\Users\Powerofcloud\Desktop\ProjetGot v0.8\ProjetGot\obj\Debug\ProjetGot.csprojResolveAssemblyReference.cache
+C:\Users\Powerofcloud\Desktop\ProjetGot v0.8\ProjetGot\obj\Debug\UCFormulairePerso.baml
+C:\Users\Powerofcloud\Desktop\ProjetGot v0.8\ProjetGot\obj\Debug\FormulaireFamille.g.cs
+C:\Users\Powerofcloud\Desktop\ProjetGot v0.8\ProjetGot\obj\Debug\FormulaireModif.g.cs
+C:\Users\Powerofcloud\Desktop\ProjetGot v0.8\ProjetGot\obj\Debug\FormulairePerso.g.cs
+C:\Users\Powerofcloud\Desktop\ProjetGot v0.8\ProjetGot\obj\Debug\MainWindow.g.cs
+C:\Users\Powerofcloud\Desktop\ProjetGot v0.8\ProjetGot\obj\Debug\UCFormulairePerso.g.cs
+C:\Users\Powerofcloud\Desktop\ProjetGot v0.8\ProjetGot\obj\Debug\App.g.cs
+C:\Users\Powerofcloud\Desktop\ProjetGot v0.8\ProjetGot\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Powerofcloud\Desktop\ProjetGot v0.8\ProjetGot\obj\Debug\ProjetGot_MarkupCompile.cache
+C:\Users\Powerofcloud\Desktop\ProjetGot v0.8\ProjetGot\obj\Debug\ProjetGot_MarkupCompile.lref
+C:\Users\Powerofcloud\Desktop\ProjetGot v0.8\ProjetGot\obj\Debug\App.baml
+C:\Users\Powerofcloud\Desktop\ProjetGot v0.8\ProjetGot\obj\Debug\FormulaireFamille.baml
+C:\Users\Powerofcloud\Desktop\ProjetGot v0.8\ProjetGot\obj\Debug\FormulaireModif.baml
+C:\Users\Powerofcloud\Desktop\ProjetGot v0.8\ProjetGot\obj\Debug\FormulairePerso.baml
+C:\Users\Powerofcloud\Desktop\ProjetGot v0.8\ProjetGot\obj\Debug\MainWindow.baml
+C:\Users\Powerofcloud\Desktop\ProjetGot v0.8\ProjetGot\obj\Debug\ProjetGot.g.resources
+C:\Users\Powerofcloud\Desktop\ProjetGot v0.8\ProjetGot\obj\Debug\ProjetGot.Properties.Resources.resources
+C:\Users\Powerofcloud\Desktop\ProjetGot v0.8\ProjetGot\obj\Debug\ProjetGot.csproj.GenerateResource.Cache
+E:\ProjetGot v0.8.2\ProjetGot\bin\Debug\ProjetGot.exe.config
+E:\ProjetGot v0.8.2\ProjetGot\obj\Debug\ProjetGot.exe
+E:\ProjetGot v0.8.2\ProjetGot\obj\Debug\ProjetGot.pdb
+E:\ProjetGot v0.8.2\ProjetGot\bin\Debug\ProjetGot.exe
+E:\ProjetGot v0.8.2\ProjetGot\bin\Debug\ProjetGot.pdb
+E:\ProjetGot v0.8.2\ProjetGot\bin\Debug\Metier.dll
+E:\ProjetGot v0.8.2\ProjetGot\bin\Debug\Metier.pdb
+E:\ProjetGot v0.8.2\ProjetGot\obj\Debug\ProjetGot.csprojResolveAssemblyReference.cache
+E:\ProjetGot v0.8.2\ProjetGot\obj\Debug\UCFormulairePerso.baml
+E:\ProjetGot v0.8.2\ProjetGot\obj\Debug\FormulaireFamille.g.cs
+E:\ProjetGot v0.8.2\ProjetGot\obj\Debug\FormulaireModif.g.cs
+E:\ProjetGot v0.8.2\ProjetGot\obj\Debug\FormulairePerso.g.cs
+E:\ProjetGot v0.8.2\ProjetGot\obj\Debug\MainWindow.g.cs
+E:\ProjetGot v0.8.2\ProjetGot\obj\Debug\UCFormulairePerso.g.cs
+E:\ProjetGot v0.8.2\ProjetGot\obj\Debug\App.g.cs
+E:\ProjetGot v0.8.2\ProjetGot\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\ProjetGot v0.8.2\ProjetGot\obj\Debug\ProjetGot_MarkupCompile.cache
+E:\ProjetGot v0.8.2\ProjetGot\obj\Debug\ProjetGot_MarkupCompile.lref
+E:\ProjetGot v0.8.2\ProjetGot\obj\Debug\App.baml
+E:\ProjetGot v0.8.2\ProjetGot\obj\Debug\FormulaireFamille.baml
+E:\ProjetGot v0.8.2\ProjetGot\obj\Debug\FormulaireModif.baml
+E:\ProjetGot v0.8.2\ProjetGot\obj\Debug\FormulairePerso.baml
+E:\ProjetGot v0.8.2\ProjetGot\obj\Debug\MainWindow.baml
+E:\ProjetGot v0.8.2\ProjetGot\obj\Debug\ProjetGot.g.resources
+E:\ProjetGot v0.8.2\ProjetGot\obj\Debug\ProjetGot.Properties.Resources.resources
+E:\ProjetGot v0.8.2\ProjetGot\obj\Debug\ProjetGot.csproj.GenerateResource.Cache
+C:\Users\guforce\Desktop\ProjetGot v0.8.2\ProjetGot\bin\Debug\ProjetGot.exe.config
+C:\Users\guforce\Desktop\ProjetGot v0.8.2\ProjetGot\obj\Debug\ProjetGot.exe
+C:\Users\guforce\Desktop\ProjetGot v0.8.2\ProjetGot\obj\Debug\ProjetGot.pdb
+C:\Users\guforce\Desktop\ProjetGot v0.8.2\ProjetGot\bin\Debug\ProjetGot.exe
+C:\Users\guforce\Desktop\ProjetGot v0.8.2\ProjetGot\bin\Debug\ProjetGot.pdb
+C:\Users\guforce\Desktop\ProjetGot v0.8.2\ProjetGot\bin\Debug\Metier.dll
+C:\Users\guforce\Desktop\ProjetGot v0.8.2\ProjetGot\bin\Debug\Metier.pdb
+C:\Users\guforce\Desktop\ProjetGot v0.8.2\ProjetGot\obj\Debug\ProjetGot.csprojResolveAssemblyReference.cache
+C:\Users\guforce\Desktop\ProjetGot v0.8.2\ProjetGot\obj\Debug\UCFormulairePerso.baml
+C:\Users\guforce\Desktop\ProjetGot v0.8.2\ProjetGot\obj\Debug\FormulaireFamille.g.cs
+C:\Users\guforce\Desktop\ProjetGot v0.8.2\ProjetGot\obj\Debug\FormulaireModif.g.cs
+C:\Users\guforce\Desktop\ProjetGot v0.8.2\ProjetGot\obj\Debug\FormulairePerso.g.cs
+C:\Users\guforce\Desktop\ProjetGot v0.8.2\ProjetGot\obj\Debug\MainWindow.g.cs
+C:\Users\guforce\Desktop\ProjetGot v0.8.2\ProjetGot\obj\Debug\UCFormulairePerso.g.cs
+C:\Users\guforce\Desktop\ProjetGot v0.8.2\ProjetGot\obj\Debug\App.g.cs
+C:\Users\guforce\Desktop\ProjetGot v0.8.2\ProjetGot\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\guforce\Desktop\ProjetGot v0.8.2\ProjetGot\obj\Debug\ProjetGot_MarkupCompile.cache
+C:\Users\guforce\Desktop\ProjetGot v0.8.2\ProjetGot\obj\Debug\ProjetGot_MarkupCompile.lref
+C:\Users\guforce\Desktop\ProjetGot v0.8.2\ProjetGot\obj\Debug\App.baml
+C:\Users\guforce\Desktop\ProjetGot v0.8.2\ProjetGot\obj\Debug\FormulaireFamille.baml
+C:\Users\guforce\Desktop\ProjetGot v0.8.2\ProjetGot\obj\Debug\FormulaireModif.baml
+C:\Users\guforce\Desktop\ProjetGot v0.8.2\ProjetGot\obj\Debug\FormulairePerso.baml
+C:\Users\guforce\Desktop\ProjetGot v0.8.2\ProjetGot\obj\Debug\MainWindow.baml
+C:\Users\guforce\Desktop\ProjetGot v0.8.2\ProjetGot\obj\Debug\ProjetGot.g.resources
+C:\Users\guforce\Desktop\ProjetGot v0.8.2\ProjetGot\obj\Debug\ProjetGot.Properties.Resources.resources
+C:\Users\guforce\Desktop\ProjetGot v0.8.2\ProjetGot\obj\Debug\ProjetGot.csproj.GenerateResource.Cache
+C:\Users\guforce\Desktop\ProjetGot v0.9.1\ProjetGot\bin\Debug\ProjetGot.exe.config
+C:\Users\guforce\Desktop\ProjetGot v0.9.1\ProjetGot\obj\Debug\ProjetGot.exe
+C:\Users\guforce\Desktop\ProjetGot v0.9.1\ProjetGot\obj\Debug\ProjetGot.pdb
+E:\ProjetGot v0.9.1\ProjetGot\bin\Debug\ProjetGot.exe.config
+E:\ProjetGot v0.9.1\ProjetGot\obj\Debug\ProjetGot.exe
+E:\ProjetGot v0.9.1\ProjetGot\obj\Debug\ProjetGot.pdb
+E:\ProjetGot v0.9.1\ProjetGot\bin\Debug\ProjetGot.exe
+E:\ProjetGot v0.9.1\ProjetGot\bin\Debug\ProjetGot.pdb
+E:\ProjetGot v0.9.1\ProjetGot\bin\Debug\Metier.dll
+E:\ProjetGot v0.9.1\ProjetGot\bin\Debug\Metier.pdb
+E:\ProjetGot v0.9.1\ProjetGot\obj\Debug\ProjetGot.csprojResolveAssemblyReference.cache
+E:\ProjetGot v0.9.1\ProjetGot\obj\Debug\UCFormulairePerso.baml
+E:\ProjetGot v0.9.1\ProjetGot\obj\Debug\FormulaireFamille.g.cs
+E:\ProjetGot v0.9.1\ProjetGot\obj\Debug\FormulaireModif.g.cs
+E:\ProjetGot v0.9.1\ProjetGot\obj\Debug\FormulairePerso.g.cs
+E:\ProjetGot v0.9.1\ProjetGot\obj\Debug\MainWindow.g.cs
+E:\ProjetGot v0.9.1\ProjetGot\obj\Debug\UCFormulairePerso.g.cs
+E:\ProjetGot v0.9.1\ProjetGot\obj\Debug\App.g.cs
+E:\ProjetGot v0.9.1\ProjetGot\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\ProjetGot v0.9.1\ProjetGot\obj\Debug\ProjetGot_MarkupCompile.cache
+E:\ProjetGot v0.9.1\ProjetGot\obj\Debug\ProjetGot_MarkupCompile.lref
+E:\ProjetGot v0.9.1\ProjetGot\obj\Debug\App.baml
+E:\ProjetGot v0.9.1\ProjetGot\obj\Debug\FormulaireFamille.baml
+E:\ProjetGot v0.9.1\ProjetGot\obj\Debug\FormulaireModif.baml
+E:\ProjetGot v0.9.1\ProjetGot\obj\Debug\FormulairePerso.baml
+E:\ProjetGot v0.9.1\ProjetGot\obj\Debug\MainWindow.baml
+E:\ProjetGot v0.9.1\ProjetGot\obj\Debug\ProjetGot.g.resources
+E:\ProjetGot v0.9.1\ProjetGot\obj\Debug\ProjetGot.Properties.Resources.resources
+E:\ProjetGot v0.9.1\ProjetGot\obj\Debug\ProjetGot.csproj.GenerateResource.Cache
+C:\Users\Guillaume\Documents\Visual Studio 2012\Projects\ProjetGot\ProjetGot\obj\Debug\App.baml
+C:\Users\Guillaume\Desktop\ProjetGotAlexis\ProjetGot\bin\Debug\ProjetGot.exe.config
+C:\Users\Guillaume\Desktop\ProjetGotAlexis\ProjetGot\obj\Debug\ProjetGot.exe
+C:\Users\Guillaume\Desktop\ProjetGotAlexis\ProjetGot\obj\Debug\ProjetGot.pdb
+C:\Users\Guillaume\Desktop\ProjetGotAlexis\ProjetGot\bin\Debug\ProjetGot.exe
+C:\Users\Guillaume\Desktop\ProjetGotAlexis\ProjetGot\bin\Debug\ProjetGot.pdb
+C:\Users\Guillaume\Desktop\ProjetGotAlexis\ProjetGot\bin\Debug\Metier.dll
+C:\Users\Guillaume\Desktop\ProjetGotAlexis\ProjetGot\bin\Debug\Metier.pdb
+C:\Users\Guillaume\Desktop\ProjetGotAlexis\ProjetGot\obj\Debug\ProjetGot.csprojResolveAssemblyReference.cache
+C:\Users\Guillaume\Desktop\ProjetGotAlexis\ProjetGot\obj\Debug\UCFormulairePerso.baml
+C:\Users\Guillaume\Desktop\ProjetGotAlexis\ProjetGot\obj\Debug\FormulaireFamille.g.cs
+C:\Users\Guillaume\Desktop\ProjetGotAlexis\ProjetGot\obj\Debug\FormulaireModif.g.cs
+C:\Users\Guillaume\Desktop\ProjetGotAlexis\ProjetGot\obj\Debug\FormulairePerso.g.cs
+C:\Users\Guillaume\Desktop\ProjetGotAlexis\ProjetGot\obj\Debug\MainWindow.g.cs
+C:\Users\Guillaume\Desktop\ProjetGotAlexis\ProjetGot\obj\Debug\UCFormulairePerso.g.cs
+C:\Users\Guillaume\Desktop\ProjetGotAlexis\ProjetGot\obj\Debug\App.g.cs
+C:\Users\Guillaume\Desktop\ProjetGotAlexis\ProjetGot\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Guillaume\Desktop\ProjetGotAlexis\ProjetGot\obj\Debug\ProjetGot_MarkupCompile.cache
+C:\Users\Guillaume\Desktop\ProjetGotAlexis\ProjetGot\obj\Debug\ProjetGot_MarkupCompile.lref
+C:\Users\Guillaume\Desktop\ProjetGotAlexis\ProjetGot\obj\Debug\App.baml
+C:\Users\Guillaume\Desktop\ProjetGotAlexis\ProjetGot\obj\Debug\FormulaireFamille.baml
+C:\Users\Guillaume\Desktop\ProjetGotAlexis\ProjetGot\obj\Debug\FormulaireModif.baml
+C:\Users\Guillaume\Desktop\ProjetGotAlexis\ProjetGot\obj\Debug\FormulairePerso.baml
+C:\Users\Guillaume\Desktop\ProjetGotAlexis\ProjetGot\obj\Debug\MainWindow.baml
+C:\Users\Guillaume\Desktop\ProjetGotAlexis\ProjetGot\obj\Debug\ProjetGot.g.resources
+C:\Users\Guillaume\Desktop\ProjetGotAlexis\ProjetGot\obj\Debug\ProjetGot.Properties.Resources.resources
+C:\Users\Guillaume\Desktop\ProjetGotAlexis\ProjetGot\obj\Debug\ProjetGot.csproj.GenerateResource.Cache

@@ -1,0 +1,19 @@
+﻿<Window x:Class="ProjetGot.FormulaireModif"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:ProjetGot"
+        Title="FormulairePerso" Height="400" Width="300">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="auto"/>
+        </Grid.RowDefinitions>
+        <TextBlock Text="Modification Personnage" Grid.Row="0" FontSize="25" HorizontalAlignment="Center"/>
+        <local:UCFormulairePerso x:Name="UCModif" Grid.Row="1"/>
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Grid.Row="2" Grid.ColumnSpan="2">
+            <Button Content="Modifier" Margin="8" Click="ValiderModif"/>
+            <Button Content="Quitter" Margin="8" Click="Quitter"/>
+        </StackPanel>
+    </Grid>
+</Window>

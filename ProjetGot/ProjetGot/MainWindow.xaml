@@ -1,0 +1,160 @@
+﻿<Window x:Class="ProjetGot.MainWindow"
+        x:Name="FenetrePrincipale"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:local="clr-namespace:ProjetGot"
+        xmlns:metier="clr-namespace:Metier;assembly=Metier"
+        Title="Got of Throne" Height="600" Width="800" Icon="Images/sticker-targaryen-game-of-thrones-2187.png">
+    <Window.Resources>
+ 
+        <CollectionViewSource x:Key="Liste" Source="{Binding Source={StaticResource Mana}}"/>
+    </Window.Resources>
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="Images/FondDuGrugeur.png"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="15*"/>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0" Background="Black">
+            <Image Source="Images\BanniereGoT.png"/>
+        </Grid>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="40*"/>
+                <ColumnDefinition Width="75*"/>
+            </Grid.ColumnDefinitions>
+            <Grid Grid.Column="0" Grid.Row="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="9*"/>
+                    <RowDefinition Height="1*"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="50*"/>
+                    <ColumnDefinition Width="50*"/>
+                </Grid.ColumnDefinitions>
+                <ListView x:Name="List" Grid.Column="0" ItemsSource="{Binding Source={StaticResource Liste}}" IsSynchronizedWithCurrentItem="True">
+                    <ListView.ContextMenu>
+                        <ContextMenu>
+                            <MenuItem Header="Supprimer" Click="ClickSupprFamille"/>
+                        </ContextMenu>
+                    </ListView.ContextMenu>
+                    <ListView.Background>
+                        <SolidColorBrush Opacity="0" Color="White"/>
+                    </ListView.Background>
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding Nom}" Foreground="Goldenrod" FontSize="30" FontWeight="Bold" FontFamily="Enchanted Land"/>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+
+                <ListView x:Name="ListPerso" Grid.Column="1" ItemsSource="{Binding persos, Source={StaticResource Liste}}" IsSynchronizedWithCurrentItem="True">
+                    <ListView.ContextMenu>
+                        <ContextMenu>
+                            <MenuItem Header="Supprimer" Click="ClickSupprPerso"/>
+                        </ContextMenu>
+                    </ListView.ContextMenu>
+                    <ListView.Background>
+                        <SolidColorBrush Opacity="0" Color="White"/>
+                    </ListView.Background>
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding Prenom}" Foreground="Goldenrod" FontSize="30" FontFamily="Enchanted Land"/>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+                <Menu FontSize="15" Grid.Row="1" Grid.ColumnSpan="2" VerticalAlignment="Center" HorizontalAlignment="Center">
+                    <MenuItem Header="Ajouter">
+                        <MenuItem Header="Personnage" Click="ClickAddPerso">
+                            <MenuItem.Icon>
+                                <Image Source="Images/stickman.png" Height="20"/>
+                            </MenuItem.Icon>
+                        </MenuItem>
+                        <MenuItem Header="Famille" Click="ClickAddFamille">
+                            <MenuItem.Icon>
+                                <Image Source="Images/Stark-icon.png" Height="25"/>
+                            </MenuItem.Icon>
+                        </MenuItem>
+                    </MenuItem>
+                </Menu>
+            </Grid>
+
+            <Grid Grid.Column="1" Style="{StaticResource TextDetails}" Margin="10">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="3*"/>
+                    <RowDefinition Height="6*"/>
+                    <RowDefinition Height="1*"/>
+                </Grid.RowDefinitions>
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="auto"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="auto"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <WrapPanel Grid.RowSpan="3" HorizontalAlignment="Center" Margin="0,0,5,0">
+                        <Border BorderBrush="Silver" BorderThickness="2">
+                            <Image Source="{Binding SelectedItem.Portrait, ElementName=ListPerso}"/>
+                        </Border>
+                    </WrapPanel>
+                    <Viewbox Grid.Column="1">
+                        <TextBlock Text="{Binding SelectedItem.Prenom, ElementName=ListPerso}" FontFamily="Enchanted Land"/>
+                    </Viewbox>
+                    <Viewbox Grid.Column="1" Grid.Row="1">
+                        <TextBlock Text="{Binding Nom, Source={StaticResource Liste }}" FontFamily="Enchanted Land"/>
+                    </Viewbox>
+                    <Rectangle Grid.Column="2" Grid.RowSpan="2" Width="3" HorizontalAlignment="Center" Margin="5,0" Stroke="White" StrokeThickness="3"/>
+                  
+                    <Viewbox Grid.Column="3">
+                        <TextBlock Text="Pere : " FontFamily="Enchanted Land"/>
+                    </Viewbox>
+                    <Viewbox Grid.Column="4">
+                        <TextBlock Text="{Binding SelectedItem.Pere.Prenom, ElementName=ListPerso}" FontFamily="Enchanted Land"/>
+                    </Viewbox>
+                    <Viewbox Grid.Column ="3" Grid.Row="1">
+                        <TextBlock Text="Mere : " FontFamily="Enchanted Land"/>
+                    </Viewbox>
+                    <Viewbox Grid.Column="4" Grid.Row="1">
+                        <TextBlock Text="{Binding SelectedItem.Mere.Prenom, ElementName=ListPerso}" FontFamily="Enchanted Land"/>
+                    </Viewbox>
+                    <WrapPanel Grid.Column="5" Grid.RowSpan="2" HorizontalAlignment="Center" Margin="5,0,0,0">
+                            <Image Source="{Binding SelectedItem.Embleme, ElementName=List}"/>
+                    </WrapPanel>
+                    <Viewbox  Grid.Column="5" Grid.Row="2">
+                        <TextBlock Text="{Binding Devise, Source={StaticResource Liste }}" HorizontalAlignment="Center" VerticalAlignment="Top" FontFamily="Enchanted Land"/>
+                    </Viewbox>
+                </Grid>
+
+                <Grid Grid.Row="1">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="2*"/>
+                        <RowDefinition Height="8*"/>
+                    </Grid.RowDefinitions>
+                    <Viewbox Grid.Row="0" HorizontalAlignment="Left">
+                        <TextBlock Text="Description :" Margin="0,5,0,5" Foreground="Goldenrod" FontWeight="Bold" FontFamily="Enchanted Land"/>
+                    </Viewbox>
+                    <ScrollViewer Grid.Row="1" VerticalScrollBarVisibility="Auto">
+                        <TextBlock Text="{Binding SelectedItem.Description, ElementName=ListPerso}" FontSize="20" TextWrapping="Wrap" Foreground="Goldenrod" FontFamily="Andalus">
+                            <TextBlock.Background>
+                                <SolidColorBrush Color="Gray" Opacity="0.5"/>
+                            </TextBlock.Background>
+                        </TextBlock>
+                    </ScrollViewer>
+                </Grid>
+                <Button Grid.Row="2" Content="Modifier" FontSize="15" Margin="20,2,20,-10" Click="ClickModifPerso" HorizontalAlignment="Right" VerticalAlignment="Center"/>
+            </Grid>   
+        </Grid>
+    </Grid>
+</Window>

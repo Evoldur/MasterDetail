@@ -1,0 +1,82 @@
+﻿<UserControl x:Class="ProjetGot.UCFormulairePerso"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:metier="clr-namespace:Metier;assembly=Metier"
+             x:Name="UCperso"
+             mc:Ignorable="d" 
+             d:DesignHeight="400" d:DesignWidth="300">
+    <UserControl.Resources>
+        <CollectionViewSource x:Key="Liste" Source="{Binding Source={StaticResource Mana}}"/>
+
+        <CollectionViewSource x:Key="ListePapa" Source="{Binding TousPersonnages, Source={StaticResource Mana}}" Filter="FiltrePapa"/>
+        <CollectionViewSource x:Key="ListeMama" Source="{Binding TousPersonnages, Source={StaticResource Mana}}" Filter="FiltreMama"/>
+        <Style TargetType="Label">
+            <Setter Property="HorizontalAlignment" Value="Right"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+        </Style>
+        <Style TargetType="TextBox">
+            <Setter Property="Margin" Value="5"/>
+        </Style>
+    </UserControl.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Label Content="Prenom :"          Grid.Row="0" Grid.Column="0"/>
+        <TextBox x:Name="txtPrenom" Grid.Row="0" Grid.Column="1"/>
+
+        <Label Content="Portrait :"      Grid.Row="1" Grid.Column="0"/>
+        <TextBox x:Name="txtPortrait"    Grid.Row="1" Grid.Column="1" Margin="5,5,80,5"/>
+        <Button Content="Parcourir ..." Grid.Row="1" Grid.Column="1" HorizontalAlignment="Right" Margin="5,5,5,5" Click="Parcourir"/>
+
+        <Label Content="Sexe :"         Grid.Row="2" Grid.Column="0"/>
+        <WrapPanel Orientation="Horizontal" Grid.Row="2" Grid.Column="2" VerticalAlignment="Center" HorizontalAlignment="Center">
+            <RadioButton x:Name="rbHomme" IsChecked="True" Content="Homme" Margin="0, 0, 40, 0"/>
+            <RadioButton x:Name="rbFemme" Content="Femme"/>
+        </WrapPanel>
+        
+        <Label Content="Famille :"           Grid.Row="3" Grid.Column="0"/>
+        <ComboBox x:Name="ComboFamille" ItemsSource="{Binding Source={StaticResource Liste}}" IsSynchronizedWithCurrentItem="True" Grid.Row="3" Grid.Column="1" Margin="40,5,40,5">
+            <ComboBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding Nom}"/>
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+        
+        <Label Content="Père :"              Grid.Row="4" Grid.Column="0"/>
+        <ComboBox x:Name="ComboPere" ItemsSource="{Binding Source={StaticResource ListePapa}}" Grid.Row="4" Grid.Column="1" Margin="40,5,40,5">
+            <ComboBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding Prenom}"/>
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+        
+        <Label Content="Mère :"             Grid.Row="5" Grid.Column="0"/>
+        <ComboBox x:Name="ComboMere" ItemsSource="{Binding Source={StaticResource ListeMama}}" Grid.Row="5" Grid.Column="1" Margin="40,5,40,5">
+            <ComboBox.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding Prenom}"/>
+                </DataTemplate>
+            </ComboBox.ItemTemplate>
+        </ComboBox>
+
+        <Label Content="Description :"       Grid.Row="6" Grid.Column="0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtDescription"     Grid.Row="6" Grid.Column="1" Height="100" TextWrapping="Wrap"/>
+
+    </Grid>
+</UserControl>

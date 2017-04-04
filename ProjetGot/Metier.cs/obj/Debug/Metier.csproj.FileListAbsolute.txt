@@ -1,0 +1,49 @@
+E:\ProjetGot\Metier.cs\bin\Debug\Metier.dll
+E:\ProjetGot\Metier.cs\bin\Debug\Metier.pdb
+E:\ProjetGot\Metier.cs\obj\Debug\Metier.csprojResolveAssemblyReference.cache
+E:\ProjetGot\Metier.cs\obj\Debug\Metier.dll
+E:\ProjetGot\Metier.cs\obj\Debug\Metier.pdb
+C:\Users\Guillaume\Documents\Visual Studio 2012\Projects\ProjetGot\Metier.cs\bin\Debug\Metier.dll
+C:\Users\Guillaume\Documents\Visual Studio 2012\Projects\ProjetGot\Metier.cs\bin\Debug\Metier.pdb
+C:\Users\Guillaume\Documents\Visual Studio 2012\Projects\ProjetGot\Metier.cs\obj\Debug\Metier.dll
+C:\Users\Guillaume\Documents\Visual Studio 2012\Projects\ProjetGot\Metier.cs\obj\Debug\Metier.pdb
+C:\Users\cltouresse\Desktop\ProjetGot\Metier.cs\bin\Debug\Metier.dll
+C:\Users\cltouresse\Desktop\ProjetGot\Metier.cs\bin\Debug\Metier.pdb
+C:\Users\cltouresse\Desktop\ProjetGot\Metier.cs\obj\Debug\Metier.csprojResolveAssemblyReference.cache
+C:\Users\cltouresse\Desktop\ProjetGot\Metier.cs\obj\Debug\Metier.dll
+C:\Users\cltouresse\Desktop\ProjetGot\Metier.cs\obj\Debug\Metier.pdb
+C:\Users\guforce\Desktop\ProjetGot\Metier.cs\bin\Debug\Metier.dll
+C:\Users\guforce\Desktop\ProjetGot\Metier.cs\bin\Debug\Metier.pdb
+C:\Users\guforce\Desktop\ProjetGot\Metier.cs\obj\Debug\Metier.dll
+C:\Users\guforce\Desktop\ProjetGot\Metier.cs\obj\Debug\Metier.pdb
+C:\Users\Powerofcloud\Desktop\ProjetGot\Metier.cs\bin\Debug\Metier.dll
+C:\Users\Powerofcloud\Desktop\ProjetGot\Metier.cs\bin\Debug\Metier.pdb
+C:\Users\Powerofcloud\Desktop\ProjetGot\Metier.cs\obj\Debug\Metier.dll
+C:\Users\Powerofcloud\Desktop\ProjetGot\Metier.cs\obj\Debug\Metier.pdb
+G:\ProjetGot guigui\Metier.cs\bin\Debug\Metier.dll
+G:\ProjetGot guigui\Metier.cs\bin\Debug\Metier.pdb
+G:\ProjetGot guigui\Metier.cs\obj\Debug\Metier.dll
+G:\ProjetGot guigui\Metier.cs\obj\Debug\Metier.pdb
+C:\Users\Powerofcloud\Desktop\ProjetGot guigui\Metier.cs\bin\Debug\Metier.dll
+C:\Users\Powerofcloud\Desktop\ProjetGot guigui\Metier.cs\bin\Debug\Metier.pdb
+C:\Users\Powerofcloud\Desktop\ProjetGot guigui\Metier.cs\obj\Debug\Metier.dll
+C:\Users\Powerofcloud\Desktop\ProjetGot guigui\Metier.cs\obj\Debug\Metier.pdb
+C:\Users\Powerofcloud\Desktop\ProjetGot v0.8\Metier.cs\bin\Debug\Metier.dll
+C:\Users\Powerofcloud\Desktop\ProjetGot v0.8\Metier.cs\bin\Debug\Metier.pdb
+C:\Users\Powerofcloud\Desktop\ProjetGot v0.8\Metier.cs\obj\Debug\Metier.dll
+C:\Users\Powerofcloud\Desktop\ProjetGot v0.8\Metier.cs\obj\Debug\Metier.pdb
+E:\ProjetGot v0.8.2\Metier.cs\bin\Debug\Metier.dll
+E:\ProjetGot v0.8.2\Metier.cs\bin\Debug\Metier.pdb
+E:\ProjetGot v0.8.2\Metier.cs\obj\Debug\Metier.csprojResolveAssemblyReference.cache
+E:\ProjetGot v0.8.2\Metier.cs\obj\Debug\Metier.dll
+E:\ProjetGot v0.8.2\Metier.cs\obj\Debug\Metier.pdb
+C:\Users\guforce\Desktop\ProjetGot v0.8.2\Metier.cs\bin\Debug\Metier.dll
+C:\Users\guforce\Desktop\ProjetGot v0.8.2\Metier.cs\bin\Debug\Metier.pdb
+C:\Users\guforce\Desktop\ProjetGot v0.8.2\Metier.cs\obj\Debug\Metier.dll
+C:\Users\guforce\Desktop\ProjetGot v0.8.2\Metier.cs\obj\Debug\Metier.pdb
+C:\Users\guforce\Desktop\ProjetGot v0.8.2\Metier.cs\obj\Debug\Metier.csprojResolveAssemblyReference.cache
+C:\Users\Guillaume\Desktop\ProjetGotAlexis\Metier.cs\bin\Debug\Metier.dll
+C:\Users\Guillaume\Desktop\ProjetGotAlexis\Metier.cs\bin\Debug\Metier.pdb
+C:\Users\Guillaume\Desktop\ProjetGotAlexis\Metier.cs\obj\Debug\Metier.dll
+C:\Users\Guillaume\Desktop\ProjetGotAlexis\Metier.cs\obj\Debug\Metier.pdb
+C:\Users\Guillaume\Documents\Visual Studio 2012\Projects\ProjetGot\Metier.cs\obj\Debug\Metier.csprojResolveAssemblyReference.cache
